@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&family=Roboto:wght@400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300;400;500;600;700;800&family=Merriweather:wght@300;400;700;900&family=Roboto:wght@400;500;700;900&display=swap');
+
+
+:root{
+    /* Color Pallete */
+    --color-background: linear-gradient(to bottom left, #1258dc 0%, #d4f7ec 89%);
+    --color-primary: #1258DC;
+    --color-secondary: #D4F7EC;
+    --color-teceary: #090934;
+    --color-quarteary: #448D76;
+    --color-quinternary: #2E2FE3;
+
+    /* font-config */
+
+    --ff-ss: 'Merriweather Sans', sans-serif;
+    --ff-s: 'Merriweather', serif;
+    --fc: var(--color-teceary);
+    --fc-contrast: var(--color-secondary);
+    --fs-sma: 12px;
+    --fs-nor: 18px;
+    --fs-med: 20px;
+    --fs-big: 30px;
+    --fs-sbig:45px;
+
+    /* Padding Pallet */
+
+
+    --sec-pad-ssma:10px 0;
+    --sec-pad-sma: 50px 0;
+    --sec-pad-med: 150px 0;
+    --sec-pad-big: 250px 0
+    --mw: 880px;
+    --x:90%;
+    --gap:2rem;
+}
+
